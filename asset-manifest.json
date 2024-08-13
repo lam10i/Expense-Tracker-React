@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lam10i/Expense-Tracker-React/static/css/main.82c07dca.css",
+    "main.js": "/lam10i/Expense-Tracker-React/static/js/main.20ad80ed.js",
+    "index.html": "/lam10i/Expense-Tracker-React/index.html",
+    "main.82c07dca.css.map": "/lam10i/Expense-Tracker-React/static/css/main.82c07dca.css.map",
+    "main.20ad80ed.js.map": "/lam10i/Expense-Tracker-React/static/js/main.20ad80ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c07dca.css",
+    "static/js/main.20ad80ed.js"
+  ]
+}
